@@ -1,1 +1,0 @@
-Pascal Triangle's Directory
